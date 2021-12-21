@@ -1,0 +1,26 @@
+h1
+{
+    text-align: center;
+    color: darkcyan;
+    font-size: 42px
+
+
+}
+p
+{
+    color: darkcyan;
+    text-align: center;
+}
+div
+{
+    margin: auto;
+    width: 25%;
+    text-align: center;
+}
+input
+{
+    width: 30%;
+    height: 35px;
+    text-align: center;
+    margin-left: 5px;
+}
